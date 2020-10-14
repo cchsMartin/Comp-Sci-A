@@ -1,3 +1,4 @@
+//Very good
 import java.util.Scanner;  
 /**
  *Author: Nolan Attreed
