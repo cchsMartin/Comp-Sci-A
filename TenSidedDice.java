@@ -26,3 +26,4 @@ public class TenSidedDice {
 	}
 }
 
+//this is just the code we did in class when we created a spinner object. redo and resubmit.
